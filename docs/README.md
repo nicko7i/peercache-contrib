@@ -1,6 +1,6 @@
 # An Example from another project.
 
-I took this directly from a different project to so what is possible using only simple markdown. (Nick)
+I took this directly from a different project to show what is possible using only simple markdown. (Nick)
 
 # Table of Contents
 
